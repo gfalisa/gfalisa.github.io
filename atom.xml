@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gfalisa.github.io</id>
+    <title>XTTF的博客</title>
+    <updated>2020-07-19T09:55:22.324Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gfalisa.github.io"/>
+    <link rel="self" href="https://gfalisa.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://gfalisa.github.io/images/avatar.png</logo>
+    <icon>https://gfalisa.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, XTTF的博客</rights>
+</feed>
